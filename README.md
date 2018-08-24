@@ -10,12 +10,12 @@ h2 {font-family:Times New Roman;color:Blue;font-size:50px;}
 
 a {font-family:Times New Roman;font-size:180%;}
 a:link {
-	color: #FFFFFF;
+	color: #2089DC;
 	text-decoration: none;
 }
 a:visited {
 	text-decoration: none;
-	color: #F2F2F2;
+	color: #FF0B0B;
 }
 a:hover {
 	color: #D70000;
@@ -23,7 +23,7 @@ a:hover {
 }
 a:active {
 	text-decoration: none;
-	color: #999999;
+	color: #20187A;
 }
 
 body {
@@ -31,7 +31,7 @@ background-image:url('yourpicture.jpg');
 background-repeat:no-repeat;
 background-position:left top;
 width="1280"; height="960";
-background-color:black;
+background-color:White;
 }
 
 </style>
